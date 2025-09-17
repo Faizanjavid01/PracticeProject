@@ -1,2 +1,3 @@
 // app.js
-console.log("sign up button updated!");
+console.log("signUp button updated!");
+console.log("signIn button updated!");
